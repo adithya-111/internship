@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <div class="card">
+        <img src="d.avif" alt="Image not found!"  >
+        <h3>Devika Shetty</h3>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo quidem neque itaque mollitia debitis facere odio, modi quasi deleniti numquam.
+        </p>
+
+    </div>
+</body>
+</html>
