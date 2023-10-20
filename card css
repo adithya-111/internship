@@ -1,0 +1,33 @@
+body{
+    background: url("https://i.pinimg.com/564x/4b/fc/65/4bfc655d8840cfc67b35567d767cd09f.jpg");
+    background-size: cover;
+
+}
+
+img{
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+
+.card{
+    border: 2px solid black;
+    width: 400px;
+    padding: 10px;
+    background-color: darkgrey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+}
+
+h3{
+    text-align: center;
+    color: beige;
+}
+
+p{
+    text-align: justify;
+}
